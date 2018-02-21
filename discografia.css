@@ -1,0 +1,109 @@
+main { background-color: black;
+       color: white;
+       font-family: 'Raleway', sans-serif; }
+
+header {padding: 0em;
+		margin: 0em;
+	    clear:both;}
+
+a {text-decoration: none;
+   color: black;}
+
+.navegador {background-color: #F98902;
+            width: 100%;
+            height:2em; 
+            border: none;
+        	padding-bottom: 1em;
+        	padding-top: 0em;
+            }
+.cuerpo { clear: both; }
+
+.li1 {float: left;
+	  margin: 1em;
+	  list-style: none;
+	  text-decoration: none;
+	  color: white;
+	  }
+
+.li1:hover {background-color: #02CCF9;
+			padding: 1em;}
+
+.li2 {float: left;
+      margin: 1em;
+      list-style: none;
+      text-decoration: none;
+	  color: white;}
+
+.li2:hover {background-color: #02CCF9;
+			padding: 1em;}
+
+.li3 {float: left;
+	  margin: 1em;
+	  list-style: none;
+	  text-decoration: none;
+	  color: white;}
+
+.li3:hover {background-color: #02CCF9;
+			padding: 1em;}
+
+.li4 {float: left;
+	  margin: 1em;
+	  list-style: none;
+	  text-decoration: none;
+	  color: white;}
+
+.li4:hover {background-color: #02CCF9;
+			padding: 1em;}
+
+.li5 {float: left;
+	  margin: 1em;
+	  list-style: none;
+	  text-decoration: none;
+	  color: white;}
+
+.li5:hover {background-color: #02CCF9;
+			padding: 1em;}
+
+.li6 {float: left;
+	  margin: 1em;
+	  list-style: none;
+	  text-decoration: none;
+	  color: white;} 
+
+.li6:hover {background-color: #02CCF9;
+			padding: 1em;}
+
+.li7 {float: left;
+	  margin: 1em;
+	  list-style: none;
+	  text-decoration: none;
+	  color: white;}
+
+.li7:hover {background-color: #02CCF9;
+			padding: 1em;}
+
+.tabla { width: 100% }
+
+.alb1 { background-color: gray;
+        border: 3px; }
+
+.alb2 { background-color: gray;
+        border: 3px; }
+
+.alb3 { background-color: gray;
+        border: 3px; }
+
+.alb4 { background-color: gray;
+        border: 3px; }
+
+.alb5 { background-color: gray;
+        border: 3px; }
+
+.alb6 { background-color: gray;
+        border: 3px; }
+
+.inmortalidad {color: white;
+				text-decoration: underline;
+			    }
+
+.video {background-color: gray}
